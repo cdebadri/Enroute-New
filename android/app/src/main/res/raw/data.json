@@ -1,0 +1,89 @@
+[
+	{
+		"genre": "Horror",
+		"all": 50,
+		"few": [
+			{
+				"comments": [
+					{
+						"userName": "Rey",
+						"comment": "Star Blood"
+					},
+				],
+				"name": "Star Wars",
+				"url": "http://stream.starwars",
+				"posterUrl": "https://thumbs.dreamstime.com/z/winter-landscape-fair-trees-under-snow-scenery-tourists-christmas-holidays-trampled-path-snowdrifts-winter-108808354.jpg",
+				"views": 23,
+				"likes": 13,
+				"language": "english"
+			},
+			{
+				"comments": [
+					{
+						"userName": "Rey",
+						"comment": "Star Blood"
+					},
+				],
+				"name": "Star Wars",
+				"url": "http://stream.starwars",
+				"posterUrl": "https://thumbs.dreamstime.com/z/winter-landscape-fair-trees-under-snow-scenery-tourists-christmas-holidays-trampled-path-snowdrifts-winter-108808354.jpg",
+				"views": 23,
+				"likes": 13,
+				"language": "english"	
+			}
+		]
+	},
+	{
+		"genre": "Thriller",
+		"all": 50,
+		"few": [
+			{
+				"comments": [
+					{
+						"userName": "Rey",
+						"comment": "Star Blood"
+					},
+				],
+				"name": "Star Wars",
+				"url": "http://stream.starwars",
+				"posterUrl": "https://thumbs.dreamstime.com/z/winter-landscape-fair-trees-under-snow-scenery-tourists-christmas-holidays-trampled-path-snowdrifts-winter-108808354.jpg",
+				"views": 23,
+				"likes": 13,
+				"language": "english"
+			},
+			{
+				"comments": [
+					{
+						"userName": "Rey",
+						"comment": "Star Blood"
+					},
+				],
+				"name": "Star Wars",
+				"url": "http://stream.starwars",
+				"posterUrl": "https://thumbs.dreamstime.com/z/winter-landscape-fair-trees-under-snow-scenery-tourists-christmas-holidays-trampled-path-snowdrifts-winter-108808354.jpg",
+				"views": 23,
+				"likes": 13,
+				"language": "english"	
+			}
+		]
+	}
+]
+// [
+// 	{
+// 		"comments": [
+// 			{
+// 				"userName": "Rey",
+// 				"comment": "Star Blood"
+// 			},
+// 		],
+// 		"name": "Star Wars",
+// 		"url": "http://stream.starwars",
+// 		"posterUrl": "http://pic",
+// 		"views": 23,
+// 		"likes": 13,
+// 		"language": "english"
+// 	},
+// 	{
+// 		//next object
+// 	}
+// ]
