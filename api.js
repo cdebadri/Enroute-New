@@ -17,4 +17,4 @@ export const getMediaGenreApi = genre => fetch(
 		}
 	}
 ).then(response => response.json())
-.then(data => data);
+.then(data => data)
